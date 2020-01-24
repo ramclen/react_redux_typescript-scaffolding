@@ -1,3 +1,6 @@
+On this project is prepared with a component that conect react-redux-thunk-typescript it also have a proxy to connect 
+with your server at port 3005 (option to customize on package.json)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
